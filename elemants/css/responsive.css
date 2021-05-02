@@ -35,6 +35,14 @@ px      68    160    252    */
 	 
 	
 }
+@media only screen and (max-width: 430px) {
+	
+	.box-warp { 
+		flex-direction: column;
+		align-items: center;
+	}
+	
+}
 
 
 
