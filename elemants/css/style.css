@@ -1,0 +1,39 @@
+body{ 
+    font-family: 'Poppins', sans-serif;
+}
+.nav-link{
+    font-weight: 500;
+}
+.fw-600{
+    font-weight: 600;
+}
+.c-blue{
+    color:#363958;
+}
+.bg-blue{
+    background:#3f4266;
+}
+.bg-gray{
+    background-color: rgba(128, 128, 128,0.2);
+}
+.c-green{
+    color:#76c27e;
+}
+.f-50{
+    font-size: 70px;
+}
+.left-contant h1{
+    font-family: 'Oswald', sans-serif; 
+}
+.rounded-4{
+    border-radius: .4rem;
+}
+.rounded-5{
+    border-radius: .8rem;
+}
+.wm-100{
+    width: 100px;
+}
+.shadow {
+    box-shadow: 4px 6px 15px rgba(0,0,0,.15)!important;
+}
